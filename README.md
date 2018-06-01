@@ -17,7 +17,7 @@ now add or edit the following line in your `config.php` at `user` folder.
 
 ## Found fault
 
-Fork this [repository](https://github.com/kalyan4786/YOURLS_Telugu_Translation/) and make changes to the faults and create a pull request.
+Fork this [repository](https://github.com/kalyan4786/YOURLS_Telugu_Translation/) and make changes to the faults and create a pull request here.
 
 You can also an issue after you are sure there is fault checked with your installation if there are no previous issues on the problem. Describe the problem as detail the will be easier.
 
