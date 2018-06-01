@@ -3,4 +3,4 @@ Translation files for YOURLS for *translating* content into *telugu*
 
 ## Current Version
 
-For YOURLS version ** 1.7 **
+For YOURLS version **1.7**
