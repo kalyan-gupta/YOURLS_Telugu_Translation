@@ -1,0 +1,1289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YOURLS 1.7\n"
+"POT-Creation-Date: 2014-01-11 11:50+0100\n"
+"PO-Revision-Date: 2018-06-01 16:28+0530\n"
+"Last-Translator: Ozh <ozh[at]ozh.org>\n"
+"Language-Team: Kalyan Gupta kalyangupta@lfmly.cf\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-KeywordsList: yourls__;yourls_e;yourls_s;yourls_se;yourls_esc_attr__;yourls_esc_html__;yourls_x;yourls_ex;yourls_esc_attr_x;yourls_esc_html_x;yourls_n:1,2;yourls_nx:1,2;yourls_n_noop:1,2;"
+"yourls_nx_noop:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: te_IN\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: yourls-infos.php:204
+#, php-format
+msgid "Statistics for %s"
+msgstr "%s కోసం గణాంకాలు"
+
+#: yourls-infos.php:211 admin/index.php:15 admin/index.php:34 admin/index.php:93 includes/functions-html.php:209 includes/functions-html.php:221 includes/functions-html.php:464 includes/functions-html.php:626
+msgid "Short URL"
+msgstr "చిన్న URL"
+
+#: yourls-infos.php:227
+msgid "Aggregate stats for duplicate short URLs"
+msgstr "నకిలీ చిన్న URLల కోసం మొత్తం గణాంకాలు"
+
+#: yourls-infos.php:229 includes/functions-html.php:464
+msgid "Long URL"
+msgstr "దీర్ఘ URL"
+
+#: yourls-infos.php:235 yourls-infos.php:246
+msgid "Traffic statistics"
+msgstr "ట్రాఫిక్ గణాంకాలు"
+
+#: yourls-infos.php:236 yourls-infos.php:432
+msgid "Traffic location"
+msgstr "ట్రాఫిక్ స్థానము"
+
+#: yourls-infos.php:237 yourls-infos.php:469
+msgid "Traffic sources"
+msgstr "ట్రాఫిక మూలాలు"
+
+#: yourls-infos.php:239 yourls-infos.php:539 includes/functions-html.php:505 includes/functions-html.php:506
+msgid "Share"
+msgstr "లింక్ పంచండి"
+
+#: yourls-infos.php:254 yourls-infos.php:294
+msgid "Last 24 hours"
+msgstr "గత 24 గంటలు"
+
+#: yourls-infos.php:255 yourls-infos.php:296
+msgid "Last 7 days"
+msgstr "గత 7 రోజులు"
+
+#: yourls-infos.php:256 yourls-infos.php:298
+msgid "Last 30 days"
+msgstr "గత 30 రోజులు"
+
+#: yourls-infos.php:257 yourls-infos.php:300
+msgid "All time"
+msgstr "అన్ని సమయంలో"
+
+#: yourls-infos.php:309
+#, php-format
+msgid "Number of hits : %s"
+msgstr "హిట్ల సంఖ్య : %s"
+
+#: yourls-infos.php:332
+msgid "Historical click count"
+msgstr "హిస్టారికల్ క్లిక్ కౌంట్"
+
+#: yourls-infos.php:338
+#, php-format
+msgid "about 1 day ago"
+msgid_plural "about %s days ago"
+msgstr[0] "సుమారు 1 రోజు క్రితం"
+msgstr[1] "సుమారు %s రోజుల క్రితం"
+
+#. //translators: eg Short URL created on March 23rd 1972
+#: yourls-infos.php:341
+#, php-format
+msgid "Short URL created on %s"
+msgstr "చిన్న URL %s రొజున​ సృష్టించబడింది"
+
+#: yourls-infos.php:356 yourls-infos.php:363
+#, php-format
+msgid "%s per day"
+msgstr "రొజుకి %s"
+
+#: yourls-infos.php:359
+#, php-format
+msgid "%s per hour"
+msgstr "గంటకి %s"
+
+#: yourls-infos.php:366
+#, php-format
+msgid "%s hit"
+msgid_plural "%s hits"
+msgstr[0] "%s హిట్"
+msgstr[1] "%s హిట్లు"
+
+#: yourls-infos.php:373
+msgid "Best day"
+msgstr "ఉత్తమ రోజు"
+
+#. //translators: eg. 43 hits on January 1, 1970
+#: yourls-infos.php:380
+#, php-format
+msgid "<strong>%1$s</strong> hit on %2$s"
+msgid_plural "<strong>%1$s</strong> hits on %2$s"
+msgstr[0] "%2$s రొజున​ <strong>%1$s</strong> హిట్"
+msgstr[1] "%2$s రొజున​ <strong>%1$s</strong> హిట్లు"
+
+#: yourls-infos.php:381 yourls-infos.php:443
+msgid "Click for more details"
+msgstr "మరిన్ని వివరాల కోసం క్లిక్ చేయండి"
+
+#: yourls-infos.php:387 yourls-infos.php:390
+#, php-format
+msgid "Year %s"
+msgstr "సమ్వత్సరమ్ %s"
+
+#: yourls-infos.php:409 yourls-infos.php:447
+#, php-format
+msgid "1 hit"
+msgid_plural "%s hits"
+msgstr[0] "ఒక హిట్"
+msgstr[1] "%s హిట్లు"
+
+#: yourls-infos.php:426
+msgid "No traffic yet. Get some clicks first!"
+msgstr "ఇంకా ట్రాఫిక్ లేదు. మొదట కొన్ని క్లిక్లను పొందండి!"
+
+#: yourls-infos.php:441
+msgid "Top 5 countries"
+msgstr "టాప్ 5 దేశాలు"
+
+#: yourls-infos.php:454
+msgid "Overall traffic"
+msgstr "మొత్తం ట్రాఫిక్"
+
+#: yourls-infos.php:463
+msgid "No country data."
+msgstr "దేశం డేటా లేదు."
+
+#: yourls-infos.php:478
+msgid "Referrer shares"
+msgstr "సూచించిన వాటాలు"
+
+#: yourls-infos.php:481
+msgid "Others"
+msgstr "ఇతరులు"
+
+#: yourls-infos.php:485 yourls-infos.php:518
+msgid "Referrers"
+msgstr "ప్రతిపాదకులు"
+
+#: yourls-infos.php:492 yourls-infos.php:502
+msgid "(details)"
+msgstr "(వివరాలు)"
+
+#: yourls-infos.php:502
+msgid "Various:"
+msgstr "వివిధ:"
+
+#: yourls-infos.php:516
+msgid "Direct vs Referrer Traffic"
+msgstr "ప్రత్యక్ష vs ప్రతిపాదకుల ట్రాఫిక్"
+
+#: yourls-infos.php:518
+msgid "Direct"
+msgstr "ప్రత్యక్ష"
+
+#: yourls-infos.php:520
+msgid "Direct traffic:"
+msgstr "ప్రత్యక్ష ట్రాఫిక్:"
+
+#: yourls-infos.php:520 yourls-infos.php:521
+#, php-format
+msgid "<strong>%s</strong> hit"
+msgid_plural "<strong>%s</strong> hits"
+msgstr[0] "<strong>%s</strong> హిట్"
+msgstr[1] "<strong>%s</strong> హిట్లు"
+
+#: yourls-infos.php:521
+msgid "Referrer traffic:"
+msgstr "ప్రతిపాదకుల ట్రాఫిక్:"
+
+#: yourls-infos.php:530
+msgid "No referrer data."
+msgstr "ప్రతిపాదకుల డేటా లేదు."
+
+#: yourls-infos.php:541
+msgid "Short link"
+msgstr "చిన్న లింక్"
+
+#: yourls-infos.php:541 includes/functions-html.php:359
+msgid "Quick Share"
+msgstr "త్వరిత భాగస్వామ్యం"
+
+#: admin/index.php:13 admin/index.php:38 admin/index.php:97 includes/functions-html.php:210 includes/functions-html.php:222
+msgid "URL"
+msgstr "URL"
+
+#: admin/index.php:42 includes/functions-html.php:211 includes/functions-html.php:464
+msgid "Title"
+msgstr "శీర్షిక"
+
+#: admin/index.php:46 admin/index.php:105
+msgid "IP Address"
+msgstr "IP చిరునామా"
+
+#: admin/index.php:50
+#, php-format
+msgid "Searching for <strong>%1$s</strong> in <strong>%2$s</strong>."
+msgstr "<strong>%2$s</strong>లో <strong>%1$s</strong> కోసం అన్వేషిస్తు౦ది."
+
+#: admin/index.php:101 includes/functions-html.php:223 includes/functions-html.php:628
+msgid "Date"
+msgstr "తేదీ"
+
+#: admin/index.php:109 includes/functions-html.php:225 includes/functions-html.php:630
+msgid "Clicks"
+msgstr "క్లిక్లు"
+
+#: admin/index.php:187 admin/index.php:198 admin/index.php:209
+#, php-format
+msgid "Short URL created, but could not redirect to %s !"
+msgstr "చిన్న URL సృష్టించబడింది, కానీ %s కు దారి మళ్లించలేదు!"
+
+#: admin/index.php:219
+msgid "Unknown \"Share\" bookmarklet"
+msgstr "తెలియని \"భాగస్వామ్యం\" బుక్మార్క్"
+
+#: admin/index.php:272
+#, php-format
+msgid "Display <strong>%1$s</strong> to <strong class=\"increment\">%2$s</strong> of <strong class=\"increment\">%3$s</strong> URLs"
+msgstr "<strong class=\"increment\">%3$s</strong> URL లలో <strong>%1$s</strong> నుండి <strong class=\"increment\">%2$s</strong> వరకు ప్రదర్శించబడ్డాయి"
+
+#: admin/index.php:274
+#, php-format
+msgid "counting <strong>1</strong> click"
+msgid_plural "counting <strong>%s</strong> clicks"
+msgstr[0] "<strong>1</strong> క్లిక్ లెక్కిస్థుంది"
+msgstr[1] "<strong>%s</strong> క్లిక్ లను లెక్కిస్థుంది"
+
+#: admin/index.php:277
+#, php-format
+msgid "Overall, tracking <strong class=\"increment\">%1$s</strong> links, <strong>%2$s</strong> clicks, and counting!"
+msgstr "మొత్తంమీద, <strong class=\"increment\">%1$s</strong> లింకులు, <strong>%2$s</strong> క్లిక్లు, ఇ౦కా లెక్కింపు కొనసాగుతు౦ది!"
+
+#: admin/index.php:337
+msgid "No URL"
+msgstr "URL లేదు"
+
+#: admin/install.php:13 admin/install.php:18
+#, php-format
+msgid "%s version is too old. Ask your server admin for an upgrade."
+msgstr "%s సంస్కరణ చాలా పాతది. నవీకరణ కోసం మీ సర్వర్ నిర్వాహకుడిని అడగండి."
+
+#: admin/install.php:24
+msgid "YOURLS already installed."
+msgstr "YOURLS ఇప్పటికే ఇన్స్టాల్ చేయబడింది."
+
+#: admin/install.php:35
+msgid "File <tt>.htaccess</tt> successfully created/updated."
+msgstr "ఫైలు <tt>.htaccess</tt> విజయవంతంగా రూపొందించింది / నవీకరించబడింది."
+
+#: admin/install.php:37
+msgid "Could not write file <tt>.htaccess</tt> in YOURLS root directory. You will have to do it manually. See <a href=\"http://yourls.org/htaccess\">how</a>."
+msgstr "YOURLS మూల డైరెక్టరీలో <tt>.htaccess</tt> ఫైల్ను వ్రాయడం సాధ్యం కాలేదు. మీరు దీన్ని మానవీయంగా చేయవలసి ఉంటుంది. <a href=\"http://yourls.org/htaccess\">ఎలా</a> చూడండి."
+
+#: admin/install.php:50 admin/install.php:71
+msgid "Install YOURLS"
+msgstr "YOURLS ను వ్యవస్థాపించండి"
+
+#: admin/install.php:74
+msgid "YOURLS Administration Page"
+msgstr "YOURLS నిర్వహణ పేజీ"
+
+#: admin/plugins.php:38
+msgid "Unsupported action"
+msgstr "మద్దతు లేని చర్య"
+
+#: admin/plugins.php:42
+msgid "No plugin specified, or not a valid plugin"
+msgstr "ప్లగ్ఇన్ పేర్కొనబడలేదు లేదా చెల్లుబాటు అయ్యే ప్లగ్ఇన్ కాదు"
+
+#: admin/plugins.php:51
+msgid "Plugin has been activated"
+msgstr "ప్లగిన్ సక్రియం చేయబడింది"
+
+#: admin/plugins.php:53
+msgid "Plugin has been deactivated"
+msgstr "ప్లగిన్ క్రియారహితం చేయబడింది"
+
+#: admin/plugins.php:58 includes/functions-html.php:745
+msgid "Manage Plugins"
+msgstr "ప్లగిన్లను నిర్వహించండి"
+
+#: admin/plugins.php:63
+msgid "Plugins"
+msgstr "ప్లగిన్లు"
+
+#: admin/plugins.php:70
+#, php-format
+msgid "%s plugin"
+msgid_plural "%s plugins"
+msgstr[0] "%s ప్లగిన్"
+msgstr[1] "%s ప్లగిన్లు"
+
+#. //translators: "you have '3 plugins' installed and '1' activated"
+#: admin/plugins.php:74
+#, php-format
+msgid "You currently have <strong>%1$s</strong> installed, and <strong>%2$s</strong> activated"
+msgstr "మీరు ప్రస్తుతం <strong>%1$s</strong> ఇన్స్టాల్ చేసి, <strong>%2$s</strong> సక్రియం చెసారు"
+
+#: admin/plugins.php:79
+msgid "Plugin Name"
+msgstr "ప్లగిన్ పేరు"
+
+#: admin/plugins.php:80
+msgid "Version"
+msgstr "వెర్షన్"
+
+#: admin/plugins.php:81
+msgid "Description"
+msgstr "వివరణ"
+
+#: admin/plugins.php:82
+msgid "Author"
+msgstr "రచయిత"
+
+#: admin/plugins.php:83
+msgid "Action"
+msgstr "చర్య"
+
+#: admin/plugins.php:118
+msgid "Deactivate"
+msgstr "క్రియారహితం చెయు"
+
+#: admin/plugins.php:122
+msgid "Activate"
+msgstr "సక్రియం చెయు"
+
+#: admin/plugins.php:133
+#, php-format
+msgid "plugin file location: %s"
+msgstr "ప్లగ్ఇన్ ఫైల్ స్థానం: %s"
+
+#: admin/plugins.php:150
+msgid "Toggle active/inactive plugins"
+msgstr "చురుకుగా ఉన్న​ / క్రియారహిత ప్లగిన్లను టోగుల్ చేయండి"
+
+#: admin/plugins.php:157
+msgid ""
+"If something goes wrong after you activate a plugin and you cannot use YOURLS or access this page, simply rename or delete its directory, or rename the plugin file to something different than <code>plugin."
+"php</code>."
+msgstr "మీరు ప్లగిన్ను సక్రియం చేసిన తర్వాత ఏదైనా తప్పు జరిగితే, మీరు YOURLS ను ఉపయోగించలేరు లేదా ఈ పేజీని ఆక్సెస్ చెయ్యలేరు, అప్పుడు ప్లగిన్ డైరెక్టరీని రీనేమ్ లేదా తొలగించవచ౦డి లేదా ప్లగిన్ ఫైల్ పేరు <code>plugin.php</code> కాకు౦డ​ వెరె ఎదైన పెరుగా మార్చండి."
+
+#: admin/plugins.php:159
+msgid "More plugins"
+msgstr "మరిన్ని ప్లగిన్లు"
+
+#: admin/plugins.php:161
+msgid "For more plugins, head to the official <a href=\"http://yourls.org/pluginlist\">Plugin list</a>."
+msgstr "మరిన్ని ప్లగిన్ల కోసం, అధికారిక <a href=\"http://yourls.org/pluginlist\">ప్లగిన్ జాబితా</a>కి వెళ్ళండి."
+
+#: admin/tools.php:6
+msgid "Cool YOURLS Tools"
+msgstr "కూల్ YOURLS ఉపకరణాలు"
+
+#: admin/tools.php:13
+msgid "Bookmarklets"
+msgstr "బుక్మార్క్లెట్లు"
+
+#: admin/tools.php:15
+msgid "YOURLS comes with handy <span>bookmarklets</span> for easier link shortening and sharing."
+msgstr "సులభంగా లింక్ క్లుప్తీకరణ మరియు భాగస్వామ్యం కోసం YOURLS సులభ <span>బుక్మార్క్లెట్ల​</span>తో వస్తుంది."
+
+#: admin/tools.php:17
+msgid "Standard or Instant, Simple or Custom"
+msgstr "ప్రామాణిక లేదా తక్షణ, సింపుల్ లేదా కస్టమ్"
+
+#: admin/tools.php:20
+msgid "The <span>Standard Bookmarklets</span> will take you to a page where you can easily edit or delete your brand new short URL."
+msgstr "<span>ప్రామాణిక బుక్మార్క్లెట్లు</span> మీ కొత్త చిన్న URL ను మీరు సులభంగా సవరించగల లేదా తొలగించగల పేజీలోకి తీసుకెళుతుంది."
+
+#: admin/tools.php:22
+msgid "The <span>Instant Bookmarklets</span> will pop the short URL without leaving the page you are viewing."
+msgstr "<span>తక్షణ బుక్మార్క్లెట్లు</span> మీరు చూస్తున్న పేజీని వదలకుండా చిన్న URL ను పాప్ చేస్తుంది."
+
+#: admin/tools.php:24
+msgid "The <span>Simple Bookmarklets</span> will generate a short URL with a random or sequential keyword."
+msgstr "<span>సింపుల్ బుక్మార్క్లెట్లు</span> యాదృచ్చిక లేదా వరుస కీవర్డ్తో ఒక చిన్న URL ను ఉత్పత్తి చేస్తుంది."
+
+#: admin/tools.php:26
+msgid "The <span>Custom Keyword Bookmarklets</span> will prompt you for a custom keyword first."
+msgstr "<span>కస్టమ్ కీవర్డ్ బుక్మార్క్లెట్లు</span> మొదట మీతో ఒక అనుకూల కీవర్డ్ కోసం అడుగుతుంది."
+
+#: admin/tools.php:30
+msgid "If you want to share a description along with the link you're shortening, simply <span>select text</span> on the page you're viewing before clicking on your bookmarklet link"
+msgstr "మీరు క్లుప్తీకరిస్తున్న లింక్తో వివరణను భాగస్వామ్యం చేయాలనుకుంటే, మీ బుక్మార్క్లెట్ లింక్పై క్లిక్ చేసే ముందు మీరు చూస్తున్న పేజీలో <span>టెక్స్ట్ని ఎంచుకోండి</span>"
+
+#: admin/tools.php:33
+msgid "The Bookmarklets"
+msgstr "బుక్మార్క్లెట్లు"
+
+#: admin/tools.php:35 admin/tools.php:62
+msgid "Click and drag links to your toolbar (or right-click and bookmark it)"
+msgstr "మీ టూల్బార్కి లింకులను క్లిక్ చేసి, లాగండి (లేదా మౌసలొ కుడి-బటన్ క్లిక్ చేసి దాన్ని బుక్మార్క్ చేయండి)"
+
+#: admin/tools.php:41
+msgid "Standard (new page)"
+msgstr "ప్రామాణిక (క్రొత్త పేజీ)"
+
+#: admin/tools.php:42
+msgid "Instant (popup)"
+msgstr "తక్షణం (పాప్అప్)"
+
+#: admin/tools.php:47
+msgid "Simple"
+msgstr "సాధారణ"
+
+#: admin/tools.php:48 admin/tools.php:49 admin/tools.php:53 admin/tools.php:54 admin/tools.php:68 admin/tools.php:70 admin/tools.php:72
+msgid "Drag to your toolbar!"
+msgstr "మీ టూల్బార్కి లాగండి!"
+
+#: admin/tools.php:48
+msgid "Shorten"
+msgstr "చిన్నగా చెయు"
+
+#: admin/tools.php:49
+msgid "Instant Shorten"
+msgstr "తక్షణ౦ చిన్నగా చెయు"
+
+#: admin/tools.php:52
+msgid "Custom Keyword"
+msgstr "అనుకూల కీవర్డ్"
+
+#: admin/tools.php:53
+msgid "Custom shorten"
+msgstr "అనుకూల౦గా చిన్నగా చెయు"
+
+#: admin/tools.php:54
+msgid "Instant Custom Shorten"
+msgstr "తక్షణ౦ అనుకూల౦గా చిన్నగా చెయు"
+
+#: admin/tools.php:59
+msgid "Social Bookmarklets"
+msgstr "సామాజిక బుక్మార్క్లెట్లు"
+
+#: admin/tools.php:61
+msgid "Create a short URL and share it on social networks, all in one click!"
+msgstr "ఒక చిన్న URL సృష్టించండి మరియు ఒకే క్లిక్తో, సోషల్ నెట్వర్కుల్లో భాగస్వామ్యం చేయండి!"
+
+#: admin/tools.php:64
+msgid "Shorten and share:"
+msgstr "చిన్నగా చెసి భాగస్వామ్యం చెయి:"
+
+#: admin/tools.php:68
+msgid "YOURLS &amp; Facebook"
+msgstr "YOURLS &amp; ఫేస్బుక్"
+
+#: admin/tools.php:70
+msgid "YOURLS &amp; Twitter"
+msgstr "YOURLS &amp; ట్విట్టర్"
+
+#: admin/tools.php:72
+msgid "YOURLS &amp; Tumblr"
+msgstr "YOURLS &amp; Tumblr"
+
+#: admin/tools.php:80
+msgid "Prefix-n-Shorten"
+msgstr "ఉపసర్గి౦చి చిన్నగా చెయి"
+
+#: admin/tools.php:82
+#, php-format
+msgid ""
+"When viewing a page, you can also prefix its full URL: just head to your browser's address bar, add \"<span>%s</span>\" to the beginning of the current URL (right before its 'http://' part) and hit enter."
+msgstr "ఒక పేజీని చూసినప్పుడు, దాని పూర్తి URL ను కూడా ఉపసర్గి౦చవచ్చు: మీ బ్రౌజరు చిరునామా పట్టీకి వెళ్లండి, ప్రస్తుత URL యొక్క ప్రారంభంలో \"<span>%s</span>\" ను జోడించి (దాని ముందు 'http: //' భాగం) ఎంటర్ నొక్కండి."
+
+#: admin/tools.php:85
+msgid "Note: this will probably not work if your web server is running on Windows"
+msgstr "గమనిక: మీ వెబ్ సర్వర్ విండోస్లో నడుస్తున్నట్లయితే ఇది పనిచేయదు"
+
+#: admin/tools.php:87
+msgid " (which seems to be the case here)"
+msgstr " (ఇది ఇక్కడ కేసుగా ఉంది)"
+
+#: admin/tools.php:93
+msgid "Secure passwordless API call"
+msgstr "పాస్వర్డ్లేని API కాల్ను సురక్షి౦చ​౦డి"
+
+#: admin/tools.php:96
+msgid "YOURLS allows API calls the old fashioned way, using <tt>username</tt> and <tt>password</tt> parameters."
+msgstr "YOURLS API పాత ఫ్యాషన్ మార్గం కాల్స్ <tt>యూజర్పేరు</tt> మరియు <tt>పాస్వర్డ్</tt> పారామితులను ఉపయోగించడం అనుమతిస్తుంది."
+
+#: admin/tools.php:98
+msgid "If you're worried about sending your credentials into the wild, you can also make API calls without using your login or your password, using a secret signature token."
+msgstr "మీ క్రెడెన్షియల్లను హ్యాకర్లకు పంపడం గురించి మీరు భయపడి ఉంటే, మీరు రహస్య సంకేత టోకెన్ను ఉపయోగించి మీ లాగిన్ లేదా మీ పాస్వర్డ్ను ఉపయోగించకుండా API కాల్స్ చేయవచ్చు."
+
+#: admin/tools.php:102
+#, php-format
+msgid "Your secret signature token: <strong><code>%s</code></strong>"
+msgstr "మీ రహస్య సంతకం టోకెన్: <strong><code>%s</code></strong>"
+
+#: admin/tools.php:103
+msgid "(It's a secret. Keep it secret) "
+msgstr "(ఇది ఒక రహస్యం, రహస్యంగానె ఉంచండి) "
+
+#: admin/tools.php:106
+msgid "This signature token can only be used with the API, not with the admin interface."
+msgstr "ఈ సంతకం టోకెన్ API తో మాత్రమే ఉపయోగించబడుతుంది, నిర్వాహక ఇంటర్ఫేస్తో కాదు."
+
+#: admin/tools.php:109
+msgid "Usage of the signature token"
+msgstr "సంతకం టోకెన్ యొక్క వాడకం"
+
+#: admin/tools.php:110
+msgid "Simply use parameter <tt>signature</tt> in your API requests. Example:"
+msgstr "మీ API అభ్యర్ధనలలో పారామితి <tt>సంతకం</tt>ను ఉపయోగించండి. ఉదాహరణ:"
+
+#: admin/tools.php:114
+msgid "Usage of a time limited signature token"
+msgstr "సమయం పరిమిత సంతకం టోకెన్ వాడకం"
+
+#: admin/tools.php:117 admin/tools.php:119
+msgid "actual value:"
+msgstr "అసలు విలువ:"
+
+#: admin/tools.php:122
+msgid "Now use parameters <tt>signature</tt> and <tt>timestamp</tt> in your API requests. Example:"
+msgstr "ఇప్పుడు మీ API అభ్యర్ధనలలో పారామితులు <tt>సంతకం</tt> మరియు <tt>టైమ్స్టాంప్</tt>ను ఉపయోగించండి. ఉదాహరణ:"
+
+#: admin/tools.php:124
+msgid "Actual values:"
+msgstr "వాస్తవ విలువలు:"
+
+#: admin/tools.php:126
+#, php-format
+msgid "This URL would be valid for only %s seconds"
+msgstr "ఈ URL %s సెకన్లు మాత్రమే చెల్లుతుంది"
+
+#: admin/tools.php:130
+#, php-format
+msgid "See the <a href=\"%s\">API documentation</a> for more"
+msgstr "మరింత తెలుసుకోవడానికి <a href=\"%s\">API డాక్యుమెంటేషన్</a> చూడండి"
+
+#: admin/upgrade.php:9 admin/upgrade.php:13
+msgid "Upgrade YOURLS"
+msgstr "YOURLS ను అప్గ్రేడ్ చేయండి"
+
+#: admin/upgrade.php:18
+#, php-format
+msgid "Upgrade not required. Go <a href=\"%s\">back to play</a>!"
+msgstr "అప్గ్రేడ్ అవసరం లేదు. <a href=\"%s\">తిరిగి వెళ్ళు</a>!"
+
+#: admin/upgrade.php:51
+msgid "Your current installation needs to be upgraded."
+msgstr "మీ ప్రస్తుత ఇన్స్టాలేషన్ అప్గ్రేడ్ చేయాలి."
+
+#: admin/upgrade.php:52
+msgid "Please, pretty please, it is recommended that you <strong>backup</strong> your database<br/>(you should do this regularly anyway)"
+msgstr "దయచేసి మీ డేటాబేస్ను <strong>బ్యాకప్</strong> చెయ్య్౦డి<br/>(ఎప్పుడైనా మీరు ఈ విధంగా చేయాల్సి౦దె)"
+
+#: admin/upgrade.php:53
+msgid "Nothing awful <em>should</em> happen, but this doesn't mean it <em>won't</em> happen, right? ;)"
+msgstr "భయంకర౦గా <em>ఏమీ జరగకూడదు<em>, కానీ ఇది <em>జరగదని కాదు</em>, అవునా? ;)"
+
+#: admin/upgrade.php:54
+msgid "On every step, if <span class='error'>something goes wrong</span>, you'll see a message and hopefully a way to fix."
+msgstr "ప్రతి దశలో, <span class='error'>ఏదో తప్పు జరిగితే</span>, మీరు సందేశాన్ని చూస్తారు మరియు ఆశాజనక పరిష్కార మార్గాన్ని చూస్తారు."
+
+#: admin/upgrade.php:55
+msgid "If everything goes too fast and you cannot read, <span class=\"success\">good for you</span>, let it go :)"
+msgstr "ప్రతిదీ చాలా వేగంగా వెళ్లి మీరు చదివినట్లయితే, <span class=\"success\">మీకు మంచిదె</span>, కదా :)"
+
+#: admin/upgrade.php:56
+msgid "Once you are ready, press \"Upgrade\" !"
+msgstr "మీరు సిద్ధంగా ఉన్నప్పుడు, \"అప్గ్రేడ్\" నొక్కండి!"
+
+#: admin/upgrade.php:65
+msgid "Upgrade"
+msgstr "అప్గ్రేడ్"
+
+#: admin/upgrade.php:77
+msgid "Your installation is now up to date ! "
+msgstr "మీ సంస్థాపన ఇప్పుడు తాజాగా ఉంది! "
+
+#: admin/upgrade.php:78
+#, php-format
+msgid "Go back to <a href=\"%s\">the admin interface</a>"
+msgstr "<a href=\"%s\">నిర్వాహక ఇంటర్ఫేస్</a>కు తిరిగి వెళ్ళు"
+
+#: includes/auth.php:53
+#, php-format
+msgid "Could not auto-encrypt passwords. Error was: \"%s\"."
+msgstr "పాస్వర్డ్లను స్వయంచాలకంగా గుప్తీకరించడం సాధ్యపడలేదు. లోపం ఉంది: \"%s\"."
+
+#: includes/auth.php:55
+#, php-format
+msgid "<a href=\"%s\">Get help</a>."
+msgstr "<a href=\"%s\">సహాయం పొందు</a>."
+
+#: includes/auth.php:57
+#, php-format
+msgid "<a href=\"%s\">Click here</a> to dismiss this message for one week."
+msgstr "ఒక వారం ఈ సందేశాన్ని తీసివేయడానికి <a href=\"%s\">ఇక్కడ క్లిక్ చెయ్యండి</a>."
+
+#: includes/class-mysql.php:39
+msgid "YOURLS requires the mysql, mysqli or pdo_mysql PHP extension. No extension found. Check your server config, or contact your host."
+msgstr "YOURLS కు mysql, mysqli లేదా pdo_mysql PHP పొడిగింపు అవసరం. పొడిగింపు కనుగొనబడలేదు. మీ సర్వర్ కాన్ఫిగరేషన్ను తనిఖీ చేయండి లేదా మీ హాస్ట్ను సంప్రదించండి."
+
+#: includes/class-mysql.php:40 includes/functions-install.php:16 includes/functions.php:438 includes/functions.php:450
+msgid "Fatal error"
+msgstr "తీవ్రమైన దోషం"
+
+#: includes/functions-auth.php:26
+msgid "Logged out successfully"
+msgstr "విజయవంతంగా లాగ్ అవుట్ అయ్యింది"
+
+#: includes/functions-auth.php:102
+msgid "Invalid username or password"
+msgstr "తప్పుడు యూజర్ పేరు లేదా పాస్వర్డ్"
+
+#: includes/functions-auth.php:104
+msgid "Please log in"
+msgstr "దయచేసి లాగిన్ అవ్వండి"
+
+#: includes/functions-html.php:142
+#, php-format
+msgid "1 query"
+msgid_plural "%s queries"
+msgstr[0] "1 క్వైరీ"
+msgstr[1] "%s క్వైరీలు"
+
+#: includes/functions-html.php:147
+#, php-format
+msgid "Powered by %s"
+msgstr "%s చేత ఆధారితం"
+
+#: includes/functions-html.php:175
+msgid "Enter the URL"
+msgstr "URL ను నమోదు చేయండి"
+
+#: includes/functions-html.php:176
+msgid "Optional "
+msgstr "ఇష్టమైనచొ "
+
+#: includes/functions-html.php:176
+msgid "Custom short URL"
+msgstr "అనుకూల చిన్న URL"
+
+#: includes/functions-html.php:178
+msgid "Shorten The URL"
+msgstr "URL ను చిన్నగా చెయు"
+
+#: includes/functions-html.php:212 includes/functions-html.php:224 includes/functions-html.php:629
+msgid "IP"
+msgstr "IP"
+
+#. //translators: "Search for <input field with text to search> in <select dropdown with URL, title...>"
+#: includes/functions-html.php:216
+#, php-format
+msgid "Search for %1$s in %2$s"
+msgstr "%2$s లో %1$s కోసం అన్వేషించు"
+
+#: includes/functions-html.php:230
+msgid "Ascending"
+msgstr "ఆరోహణ"
+
+#: includes/functions-html.php:231
+msgid "Descending"
+msgstr "అవరోహణ"
+
+#. //translators: "Order by <criteria dropdown (date, clicks...)> in <order dropdown (Descending or Ascending)>"
+#: includes/functions-html.php:235
+#, php-format
+msgid "Order by %1$s %2$s"
+msgstr "%1$s %2$s ద్వారా ఆర్డర్ చేయి"
+
+#. //translators: "Show <text field> rows"
+#: includes/functions-html.php:240
+#, php-format
+msgid "Show %s rows"
+msgstr "%s అడ్డు వరుసలను చూపు"
+
+#: includes/functions-html.php:245
+msgid "more"
+msgstr "ఎక్కువ"
+
+#: includes/functions-html.php:246
+msgid "less"
+msgstr "తక్కువ"
+
+#. //translators: "Show links with <more/less> than <text field> clicks"
+#: includes/functions-html.php:251
+#, php-format
+msgid "Show links with %1$s than %2$s clicks"
+msgstr "%2$s క్లిక్ల కంటే %1$s లింక్లను చూపి౦చు"
+
+#: includes/functions-html.php:256
+msgid "before"
+msgstr "తెదీకి ము౦దు"
+
+#: includes/functions-html.php:257
+msgid "after"
+msgstr "తెదీకి తరువాత"
+
+#: includes/functions-html.php:258
+msgid "between"
+msgstr "తెదీల​ మధ్య"
+
+#. //translators: "Show links created <before/after/between> <date input> <"and" if applicable> <date input if applicable>"
+#: includes/functions-html.php:265
+#, php-format
+msgid "Show links created %1$s %2$s %3$s %4$s"
+msgstr "%2$s %3$s %4$s %1$s సృష్టించిన లింక్లను చూపు"
+
+#: includes/functions-html.php:269
+msgid "Search"
+msgstr "అన్వేషించు"
+
+#: includes/functions-html.php:271
+msgid "Clear"
+msgstr "​ఎంట్రీని తొలగించు"
+
+#: includes/functions-html.php:291
+#, php-format
+msgid "1 page"
+msgid_plural "%s pages"
+msgstr[0] "1 పేజీ"
+msgstr[1] "%s పేజీలు"
+
+#: includes/functions-html.php:299 includes/functions-html.php:313
+msgid "Go to First Page"
+msgstr "మొదటి పేజీకి వెళ్ళు"
+
+#: includes/functions-html.php:299
+msgid "&laquo; First"
+msgstr "&laquo; మొదటి"
+
+#: includes/functions-html.php:313
+msgid "Last &raquo;"
+msgstr "చివరనున్న &raquo;"
+
+#: includes/functions-html.php:357
+msgid "Your short link"
+msgstr "మీ చిన్న లింక్"
+
+#: includes/functions-html.php:388
+msgid "Long link"
+msgstr "లాంగ్ లింక్"
+
+#: includes/functions-html.php:390 includes/functions-html.php:499 includes/functions-html.php:500
+msgid "Stats"
+msgstr "గణాంకాలు"
+
+#: includes/functions-html.php:404
+msgid "Share with"
+msgstr "భాగస్వామ్యం చేయండి"
+
+#: includes/functions-html.php:405
+msgid "Tweet this!"
+msgstr "దీన్ని ట్వీట్ చేయండి!"
+
+#: includes/functions-html.php:406
+msgid "Share on Facebook"
+msgstr "ఫేస్బుక్లో భాగస్వామ్యం చేయండి"
+
+#: includes/functions-html.php:407
+msgid "Share on Friendfeed"
+msgstr "Friendfeed లో భాగస్వామ్యం చేయండి"
+
+#: includes/functions-html.php:464
+msgid "Save"
+msgstr "సేవ్"
+
+#: includes/functions-html.php:464
+msgid "Save new values"
+msgstr "కొత్త విలువలను సేవ్ చేయండి"
+
+#: includes/functions-html.php:464
+msgid "Cancel"
+msgstr "రద్దు చేయు"
+
+#: includes/functions-html.php:464
+msgid "Cancel editing"
+msgstr "సవరణను రద్దు చేయి"
+
+#: includes/functions-html.php:466
+msgid "Error, URL not found"
+msgstr "లోపం, URL కనుగొనబడలేదు"
+
+#: includes/functions-html.php:512 includes/functions-html.php:513
+msgid "Edit"
+msgstr "మార్చు"
+
+#: includes/functions-html.php:519 includes/functions-html.php:520
+msgid "Delete"
+msgstr "తొలగించు"
+
+#: includes/functions-html.php:541
+msgid "Not a common link"
+msgstr "ఒక సాధారణ లింక్ కాదు"
+
+#: includes/functions-html.php:627
+msgid "Original URL"
+msgstr "అసలు URL"
+
+#: includes/functions-html.php:631
+msgid "Actions"
+msgstr "చర్యలు"
+
+#: includes/functions-html.php:697
+msgid "Username"
+msgstr "యూజర్ పేరు"
+
+#: includes/functions-html.php:701
+msgid "Password"
+msgstr "పాస్వర్డ్"
+
+#: includes/functions-html.php:705
+msgid "Login"
+msgstr "లాగిన్"
+
+#: includes/functions-html.php:723 user/themes/full-bootstrap/theme.php:87
+#, php-format
+msgid "Hello <strong>%s</strong>"
+msgstr "హలో <strong>%s</strong>"
+
+#: includes/functions-html.php:723 user/themes/full-bootstrap/theme.php:87
+msgid "Logout"
+msgstr "లాగౌట్"
+
+#: includes/functions-html.php:727
+msgid "Help"
+msgstr "సాయము చేయు"
+
+#: includes/functions-html.php:734
+msgid "Go to the admin interface"
+msgstr "నిర్వాహక ఇంటర్ఫేస్కి వెళ్ళు"
+
+#: includes/functions-html.php:735
+msgid "Admin interface"
+msgstr "అడ్మిన్ ఇంటర్ఫేస్"
+
+#: includes/functions-html.php:741
+msgid "Tools"
+msgstr "పరికరములు"
+
+#: includes/functions-html.php:867 includes/functions-html.php:872
+msgid "Today"
+msgstr "నేటి దినము"
+
+#: includes/functions-html.php:868 includes/functions-html.php:873
+msgid "Close"
+msgstr "మూసెయ్యి"
+
+#: includes/functions-html.php:889
+#, php-format
+msgid "<a href=\"%s\">YOURLS version %s</a> is available. Please update!"
+msgstr "<a href=\"%s\">YOURLS సంస్కరణ %s</a> అందుబాటులో ఉంది. నవీకరించండి!"
+
+#: includes/functions-install.php:16 includes/functions.php:438
+msgid "Incorrect DB config, or could not connect to DB"
+msgstr "సరికాని DB ఆకృతీకరణ, లేదా DB కి కనెక్ట్ కాలేదు"
+
+#: includes/functions-install.php:241
+#, php-format
+msgid "Table '%s' created."
+msgstr "పట్టిక '%s' సృష్టించబడింది."
+
+#: includes/functions-install.php:243
+#, php-format
+msgid "Error creating table '%s'."
+msgstr "'%s' పట్టికను సృష్టించడంలో లోపం వు౦ది."
+
+#: includes/functions-install.php:249
+msgid "Could not initialize options"
+msgstr "ఎంపికలను ప్రారంభించడం సాధ్యపడలేదు"
+
+#: includes/functions-install.php:253
+msgid "Could not insert sample short URLs"
+msgstr "నమూనా చిన్న URL లను ఇన్సర్ట్ చెయ్యలేకపోయాము"
+
+#: includes/functions-install.php:257
+msgid "YOURLS tables successfully created."
+msgstr "YOURLS పట్టికలు విజయవంతంగా సృష్టించబడ్డాయి."
+
+#: includes/functions-install.php:259
+msgid "Error creating YOURLS tables."
+msgstr "YOURLS పట్టికలను సృష్టించడంలో లోపం."
+
+#. //translators: weekday
+#: includes/functions-l10n.php:795 includes/functions-l10n.php:805 includes/functions-l10n.php:818
+msgid "Sunday"
+msgstr "ఆదివారం"
+
+#. //translators: weekday
+#: includes/functions-l10n.php:796 includes/functions-l10n.php:806 includes/functions-l10n.php:819
+msgid "Monday"
+msgstr "సోమవారం"
+
+#. //translators: weekday
+#: includes/functions-l10n.php:797 includes/functions-l10n.php:807 includes/functions-l10n.php:820
+msgid "Tuesday"
+msgstr "మంగళవారం"
+
+#. //translators: weekday
+#: includes/functions-l10n.php:798 includes/functions-l10n.php:808 includes/functions-l10n.php:821
+msgid "Wednesday"
+msgstr "బుధవారం"
+
+#. //translators: weekday
+#: includes/functions-l10n.php:799 includes/functions-l10n.php:809 includes/functions-l10n.php:822
+msgid "Thursday"
+msgstr "గురువారం"
+
+#. //translators: weekday
+#: includes/functions-l10n.php:800 includes/functions-l10n.php:810 includes/functions-l10n.php:823
+msgid "Friday"
+msgstr "శుక్రవారం"
+
+#. //translators: weekday
+#: includes/functions-l10n.php:801 includes/functions-l10n.php:811 includes/functions-l10n.php:824
+msgid "Saturday"
+msgstr "శనివారం"
+
+#. //translators: one-letter abbreviation of the weekday
+#: includes/functions-l10n.php:805
+msgid "S_Sunday_initial"
+msgstr "S_Sunday_initial"
+
+#. //translators: one-letter abbreviation of the weekday
+#: includes/functions-l10n.php:806
+msgid "M_Monday_initial"
+msgstr "M_Monday_initial"
+
+#. //translators: one-letter abbreviation of the weekday
+#: includes/functions-l10n.php:807
+msgid "T_Tuesday_initial"
+msgstr "T_Tuesday_initial"
+
+#. //translators: one-letter abbreviation of the weekday
+#: includes/functions-l10n.php:808
+msgid "W_Wednesday_initial"
+msgstr "W_Wednesday_initial"
+
+#. //translators: one-letter abbreviation of the weekday
+#: includes/functions-l10n.php:809
+msgid "T_Thursday_initial"
+msgstr "T_Thursday_initial"
+
+#. //translators: one-letter abbreviation of the weekday
+#: includes/functions-l10n.php:810
+msgid "F_Friday_initial"
+msgstr "F_Friday_initial"
+
+#. //translators: one-letter abbreviation of the weekday
+#: includes/functions-l10n.php:811
+msgid "S_Saturday_initial"
+msgstr "S_Saturday_initial"
+
+#. //translators: three-letter abbreviation of the weekday
+#: includes/functions-l10n.php:818
+msgid "Sun"
+msgstr "ఆది"
+
+#. //translators: three-letter abbreviation of the weekday
+#: includes/functions-l10n.php:819
+msgid "Mon"
+msgstr "సోమ"
+
+#. //translators: three-letter abbreviation of the weekday
+#: includes/functions-l10n.php:820
+msgid "Tue"
+msgstr "మంగళ"
+
+#. //translators: three-letter abbreviation of the weekday
+#: includes/functions-l10n.php:821
+msgid "Wed"
+msgstr "బుధ"
+
+#. //translators: three-letter abbreviation of the weekday
+#: includes/functions-l10n.php:822
+msgid "Thu"
+msgstr "గురు"
+
+#. //translators: three-letter abbreviation of the weekday
+#: includes/functions-l10n.php:823
+msgid "Fri"
+msgstr "శుక్ర"
+
+#. //translators: three-letter abbreviation of the weekday
+#: includes/functions-l10n.php:824
+msgid "Sat"
+msgstr "శని"
+
+#. //translators: month name
+#: includes/functions-l10n.php:827 includes/functions-l10n.php:842
+msgid "January"
+msgstr "జనవరి"
+
+#. //translators: month name
+#: includes/functions-l10n.php:828 includes/functions-l10n.php:843
+msgid "February"
+msgstr "ఫిబ్రవరి"
+
+#. //translators: month name
+#: includes/functions-l10n.php:829 includes/functions-l10n.php:844
+msgid "March"
+msgstr "మార్చి"
+
+#. //translators: month name
+#: includes/functions-l10n.php:830 includes/functions-l10n.php:845
+msgid "April"
+msgstr "ఏప్రిల్"
+
+#. //translators: month name
+#: includes/functions-l10n.php:831 includes/functions-l10n.php:846
+msgid "May"
+msgstr "మే"
+
+#. //translators: month name
+#: includes/functions-l10n.php:832 includes/functions-l10n.php:847
+msgid "June"
+msgstr "జూన్"
+
+#. //translators: month name
+#: includes/functions-l10n.php:833 includes/functions-l10n.php:848
+msgid "July"
+msgstr "జూలై"
+
+#. //translators: month name
+#: includes/functions-l10n.php:834 includes/functions-l10n.php:849
+msgid "August"
+msgstr "ఆగస్టు"
+
+#. //translators: month name
+#: includes/functions-l10n.php:835 includes/functions-l10n.php:850
+msgid "September"
+msgstr "సెప్టెంబర్"
+
+#. //translators: month name
+#: includes/functions-l10n.php:836 includes/functions-l10n.php:851
+msgid "October"
+msgstr "అక్టోబర్"
+
+#. //translators: month name
+#: includes/functions-l10n.php:837 includes/functions-l10n.php:852
+msgid "November"
+msgstr "నవంబర్"
+
+#. //translators: month name
+#: includes/functions-l10n.php:838 includes/functions-l10n.php:853
+msgid "December"
+msgstr "డిసెంబర్"
+
+#. //translators: three-letter abbreviation of the month
+#: includes/functions-l10n.php:842
+msgid "Jan_January_abbreviation"
+msgstr "Jan_January_abbreviation"
+
+#. //translators: three-letter abbreviation of the month
+#: includes/functions-l10n.php:843
+msgid "Feb_February_abbreviation"
+msgstr "Feb_February_abbreviation"
+
+#. //translators: three-letter abbreviation of the month
+#: includes/functions-l10n.php:844
+msgid "Mar_March_abbreviation"
+msgstr "Mar_March_abbreviation"
+
+#. //translators: three-letter abbreviation of the month
+#: includes/functions-l10n.php:845
+msgid "Apr_April_abbreviation"
+msgstr "Apr_April_abbreviation"
+
+#. //translators: three-letter abbreviation of the month
+#: includes/functions-l10n.php:846
+msgid "May_May_abbreviation"
+msgstr "May_May_abbreviation"
+
+#. //translators: three-letter abbreviation of the month
+#: includes/functions-l10n.php:847
+msgid "Jun_June_abbreviation"
+msgstr "Jun_June_abbreviation"
+
+#. //translators: three-letter abbreviation of the month
+#: includes/functions-l10n.php:848
+msgid "Jul_July_abbreviation"
+msgstr "Jul_July_abbreviation"
+
+#. //translators: three-letter abbreviation of the month
+#: includes/functions-l10n.php:849
+msgid "Aug_August_abbreviation"
+msgstr "Aug_August_abbreviation"
+
+#. //translators: three-letter abbreviation of the month
+#: includes/functions-l10n.php:850
+msgid "Sep_September_abbreviation"
+msgstr "Sep_September_abbreviation"
+
+#. //translators: three-letter abbreviation of the month
+#: includes/functions-l10n.php:851
+msgid "Oct_October_abbreviation"
+msgstr "Oct_October_abbreviation"
+
+#. //translators: three-letter abbreviation of the month
+#: includes/functions-l10n.php:852
+msgid "Nov_November_abbreviation"
+msgstr "Oct_October_abbreviation"
+
+#. //translators: three-letter abbreviation of the month
+#: includes/functions-l10n.php:853
+msgid "Dec_December_abbreviation"
+msgstr "Dec_December_abbreviation"
+
+#: includes/functions-l10n.php:860
+msgid "am"
+msgstr "am"
+
+#: includes/functions-l10n.php:861
+msgid "pm"
+msgstr "pm"
+
+#: includes/functions-l10n.php:862
+msgid "AM"
+msgstr "AM"
+
+#: includes/functions-l10n.php:863
+msgid "PM"
+msgstr "PM"
+
+#. //translators: $thousands_sep argument for http://php.net/number_format, default is ,
+#: includes/functions-l10n.php:869
+msgid "number_format_thousands_sep"
+msgstr "number_format_thousands_sep"
+
+#. //translators: $dec_point argument for http://php.net/number_format, default is .
+#: includes/functions-l10n.php:873
+msgid "number_format_decimal_point"
+msgstr "number_format_decimal_point"
+
+#. //translators: 'rtl' or 'ltr'. This sets the text direction for YOURLS.
+#: includes/functions-l10n.php:880
+msgid "ltr"
+msgstr "ltr"
+
+#: includes/functions-plugins.php:387
+msgid "Could not find and deactivated plugin :"
+msgid_plural "Could not find and deactivated plugins :"
+msgstr[0] "దొరకలేదు మరియు ప్లగ్ఇన్ క్రియారహితం చెయబడి౦ది:"
+msgstr[1] "దొరకలేదు మరియు ప్లగిన్లు క్రియారహితం చెయబడి౦ది:"
+
+#: includes/functions-plugins.php:425
+msgid "Not a valid plugin file"
+msgstr "చెల్లుబాటు అయ్యే ప్లగిన్ ఫైల్ కాదు"
+
+#: includes/functions-plugins.php:430
+msgid "Plugin already activated"
+msgstr "ప్లగిన్ ఇప్పటికే ఆక్టివేట్ చేయబడింది"
+
+#: includes/functions-plugins.php:438
+#, php-format
+msgid "Plugin generated unexpected output. Error was: <br/><pre>%s</pre>"
+msgstr "ప్లగిన్ ఊహించని అవుట్పుట్ను ఉత్పత్తి చేసింది. లోపం ఉంది: <br/><pre>%s</pre>"
+
+#: includes/functions-plugins.php:461
+msgid "Plugin not active"
+msgstr "ప్లగిన్ చురుకుగా లేదు"
+
+#: includes/functions-plugins.php:541
+msgid "This page does not exist. Maybe a plugin you thought was activated is inactive?"
+msgstr "ఈ పేజీ లేదు. సక్రియం చేయబడినట్లు మీరు భావిస్తున్న ఒక ప్లగిన్ క్రియారహితంగా ఉందా?"
+
+#: includes/functions-plugins.php:541
+msgid "Invalid link"
+msgstr "చెల్లని లింక్"
+
+#: includes/functions.php:201
+msgid "Missing or malformed URL"
+msgstr "ఖాళీ URL లేదా చెడ్డ URL"
+
+#: includes/functions.php:215
+msgid "URL is a short URL"
+msgstr "ఈ URL ఇప్పటికే చిన్న URL"
+
+#: includes/functions.php:247
+#, php-format
+msgid "Short URL %s already exists in database or is reserved"
+msgstr "చిన్న URL %s ఇప్పటికే డేటాబేస్లో ఉంది లేదా ప్రత్యేకించబడింది"
+
+#. //translators: eg "http://someurl/ added to DB"
+#: includes/functions.php:253 includes/functions.php:275
+#, php-format
+msgid "%s added to database"
+msgstr "%s డేటాబేస్కు జోడించబడింది"
+
+#: includes/functions.php:283
+msgid "Error saving url to database"
+msgstr "డేటాబేస్కు url ను సేవ్ చేయడంలో లోపం"
+
+#. //translators: eg "http://someurl/ already exists"
+#: includes/functions.php:300
+#, php-format
+msgid "%s already exists in database"
+msgstr "%s ఇప్పటికే డేటాబేస్లో ఉంది"
+
+#: includes/functions.php:355
+msgid "Link updated in database"
+msgstr "లింక్ డేటాబేస్ లో నవీకరించబడింది"
+
+#. //translators: "Error updating http://someurl/ (Shorturl: http://sho.rt/blah)"
+#: includes/functions.php:358
+#, php-format
+msgid "Error updating %s (Short URL: %s)"
+msgstr "%s ను నవీకరించడంలో లోపం (చిన్న URL: %s)"
+
+#: includes/functions.php:364
+msgid "URL or keyword already exists in database"
+msgstr "URL లేదా కీవర్డ్ ఇప్పటికే డేటాబేస్లో ఉంది"
+
+#: includes/functions.php:761
+#, php-format
+msgid "if you are not redirected after 10 seconds, please <a href=\"%s\">click here</a>"
+msgstr "మీరు 10 సెకన్ల తర్వాత మళ్ళించబడకుంటే, దయచేసి <a href=\"%s\">ఇక్కడ క్లిక్ చేయండి</a>"
+
+#: includes/functions.php:769
+#, php-format
+msgid "Please <a href=\"%s\">click here</a>"
+msgstr "దయచేసి <a href=\"%s\">ఇక్కడ క్లిక్ చేయండి</a>"
+
+#: includes/functions.php:1394
+msgid "Too many URLs added too fast. Slow down please."
+msgstr "చాలా URL లు చాలా వేగంగా జోడించబడ్డాయి. దయచేసి నిదాని౦చ​౦డి."
+
+#: includes/functions.php:1394
+msgid "Forbidden"
+msgstr "ఫర్బిడెన్"
+
+#: includes/functions.php:1673
+msgid "Unauthorized action or expired link"
+msgstr "అనధికార చర్య లేదా గడువు ముగిసిన లింక్"
+
+#: includes/functions.php:1673
+msgid "Error"
+msgstr "లోపం"
+
+#: includes/functions.php:2064
+msgid "Service temporarily unavailable"
+msgstr "సేవ తాత్కాలికంగా అందుబాటులోలేదు"
+
+#: includes/functions.php:2065
+msgid "Our service is currently undergoing scheduled maintenance."
+msgstr "మా సేవ ప్రస్తుతం షెడ్యూల్ చేయబడిన నిర్వహణలో ఉంది."
+
+#: includes/functions.php:2066
+msgid "Things should not last very long, thank you for your patience and please excuse the inconvenience"
+msgstr "ఇది చాలా కాలం పట్టదు, మీ సహనానికి ధన్యవాదాలు మరియు అసౌకర్యానికి దయచేసి మన్నించ౦డి"
+
+#: includes/functions.php:2186
+#, php-format
+msgid "%1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
+msgstr "%2$s సంస్కరణ నుండి %1$s <strong>నిలిపివేయబడింది</strong>! బదులుగా %3$s ని ఉపయోగించండి."
+
+#: includes/functions.php:2188
+#, php-format
+msgid "%1$s is <strong>deprecated</strong> since version %2$s with no alternative available."
+msgstr "ప్రత్యామ్నాయ అందుబాటులో లేని %2$s సంస్కరణ నుండి %1$s <strong>నిలిపివేయబడింది</strong>."
+
+#: user/plugins/sample-toolbar/plugin.php:62
+msgid "day"
+msgid_plural "days"
+msgstr[0] "రోజు"
+msgstr[1] "రోజులు"
+
+#: user/plugins/sample-toolbar/plugin.php:67
+msgid "view"
+msgid_plural "views"
+msgstr[0] "వీక్షణ"
+msgstr[1] "వీక్షణలు"
