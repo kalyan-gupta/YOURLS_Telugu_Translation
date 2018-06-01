@@ -1,5 +1,5 @@
 # YOURLS_Telugu_Translation
-> **YOURLS translation into *telugu***
+> **YOURLS translation into *Telugu***
 
 ## Current Version
 
