@@ -5,7 +5,7 @@
 
 For YOURLS version **1.7**.
 
-(For older versions check the [archives](https://github.com/kalyan4786/YOURLS_Telugu_Translation/releases))
+(For older versions check the [archives](https://github.com/kalyan-gupta/YOURLS_Telugu_Translation/releases))
 
 ## Installation
 
@@ -17,7 +17,7 @@ now add or edit the following line in your `config.php` at `user` folder.
 
 ## Found fault
 
-Fork this [repository](https://github.com/kalyan4786/YOURLS_Telugu_Translation/) and make changes to the faults and create a pull request here.
+Fork this [repository](https://github.com/kalyan-gupta/YOURLS_Telugu_Translation/) and make changes to the faults and create a pull request here.
 
 You can also open an issue after you are sure that there is fault which is checked with your installation, if there are no previous issues on the problem. Describe the problem as detail, `the sollution will be easier`.
 
@@ -25,7 +25,7 @@ Thanks in Advance :innocent:
 
 ## Credits
 
-Translation maintained by [Kalyan Gupta](https://www.kalyangupta.ml) @kalyan4786
+Translation maintained by [Kalyan Gupta](https://www.kalyangupta.com) @kalyan-gupta
 
 ## License
 
